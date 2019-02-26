@@ -18,6 +18,9 @@ public class hw {
         // символы
         char g = 'g';
 
+        // булевы значения
+        boolean boo = true;
+
         // задание 3
         Ex3(1,2,3,4);
 
