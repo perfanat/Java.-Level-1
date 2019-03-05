@@ -6,10 +6,10 @@ import java.util.Scanner;
 
 public class hw2 {
     public static void main(String[] args) {
-        guessWord();
+        GuessWord();
     }
 
-    public static void guessWord (){
+    public static void GuessWord (){
         Random rnd = new Random();
         Scanner scn = new Scanner(System.in);
         String[] words = {"apple", "orange", "lemon", "banana", "apricot", "avocado", "broccoli", "carrot", "cherry", "garlic", "grape", "melon", "leak", "kiwi", "mango", "mushroom", "nut", "olive", "pea", "peanut", "pear", "pepper", "pineapple", "pumpkin", "potato"};
